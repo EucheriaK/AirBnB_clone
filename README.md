@@ -8,8 +8,8 @@ This team project is part of the ALX School Full-Stack Software Engineer program
 It's the first step towards building our first full web application: an AirBnB clone.
 ## Authors
 
-- Michelle Setoboli
+- Michelle Setoboli @MichelleSetoboli
 
-- Eucheria Kureva
+- Eucheria Kureva @EucheriaK
 
 <img align="center" src="img/unnamed.png" alt="footer" width="150"  height="150"/>
